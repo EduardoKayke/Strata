@@ -17,7 +17,7 @@ function Strata(Project) {
 
 <div align="center">
 
-<img src="Projetos/img/readme1.jpg" alt="Strata" width="600"/>
+<img src="Projetos/img/readme1.jpg" alt="Strata" width="800"/>
 
 </div>
 
