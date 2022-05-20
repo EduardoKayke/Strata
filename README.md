@@ -1,7 +1,7 @@
 # Strata
 
 ## Sobre o projeto.
-Descrição
+Site desenvolvido para treinar algumas tags e elementos do HTML. A lateral é fixa, porém na imagem do readme eu dupliquei para não ficar vazio. 
 
 Data de conclusão: 20/05/2022
 ## Ferramentas e tecnologias usadas nesse projeto.
